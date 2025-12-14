@@ -1,2 +1,4 @@
 Flask
 selenium
+webdriver-manager
+textblob
